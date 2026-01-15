@@ -1,5 +1,7 @@
 # 📊 Matplotlib in Python – Data Visualization
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange.svg)
+
 This repository contains beginner-friendly Python examples demonstrating **data visualization using Matplotlib**.  
 It is designed for students and beginners who want to learn how to create different types of plots using Python.
 
